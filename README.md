@@ -8,6 +8,7 @@ laravel-db2 is a simple DB2 service provider for Laravel.
 It provides DB2 Connection by extending the Illuminate Database component of the laravel framework.
 
 This package is fork from [cooperl22/laravel-db2](https://github.com/cooperl22/laravel-db2)
+
 ---
 
 - [Installation](#installation)

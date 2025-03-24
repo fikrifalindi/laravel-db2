@@ -19,7 +19,7 @@ This package is fork from [cooperl22/laravel-db2](https://github.com/cooperl22/l
 Add laravel-db2 to your composer.json file:
 ```
 "require": {
-    "cooperl/laravel-db2": "^8.0"
+    "cooperl/laravel-db2": "^10.0"
 }
 ```
 Use [composer](https://getcomposer.org) to install this package.
